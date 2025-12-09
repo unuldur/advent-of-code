@@ -1,2 +1,2 @@
-#file = open("../input_test", "r")
-file = open("input.txt", "r")
+file = open("../input_test", "r")
+#file = open("../input.txt", "r")
